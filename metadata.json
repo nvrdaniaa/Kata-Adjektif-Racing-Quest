@@ -1,0 +1,8 @@
+{
+  "name": "Kata Adjektif Racing Quest",
+  "description": "Permainan perlumbaan 3D interaktif tatabahasa Bahasa Melayu Tahun 5 (SP 5.1.3: Kata Adjektif) dengan cabaran soalan kuiz dan sijil pencapaian automatik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
